@@ -34,15 +34,15 @@
   <img src="1790172095616.jpg" alt="Wise Bee Nursery greenhouse">
   <img src="1790172249576.jpg" alt="Nursery seedling display">
   <img src="1790172258833.jpg" alt="Avocado seedlings">
-  <img src="179018810893.jpg" alt="Fruit tree seedlings">
+  <img src="1790174817577.jpg" alt="Fruit tree seedlings">
   <img src="179088148770.jpg" alt="Nursery planting area">
-  <img src="1790188259572.jpg" alt="Flower and nursery stock">
+  <img src="1790176524881.jpg" alt="Flower and nursery stock">
 </div>
 
 <div class="section-title">🥑 AVOCADO SEEDLINGS</div>
 
 <div class="card">
-  <img class="card-img" src="1790174817577.jpg" alt="Hass avocado seedling">
+  <img class="card-img" src="1790172095616.jpg" alt="Hass avocado seedling">
   <div class="card-body">
     <span class="tag purple">PREMIUM BEST SELLER - HASS</span>
     <h2>Hass Avocado - Export Grade</h2>
@@ -52,7 +52,7 @@
 </div>
 
 <div class="card">
-  <img class="card-img" src="1790176524881.jpg" alt="Fuerte avocado seedling">
+  <img class="card-img" src="1790187846515.jpg" alt="Fuerte avocado seedling">
   <div class="card-body">
     <h2>Fuerte Avocado - Ghana Favorite</h2>
     <p class="price">GHS 60</p>
@@ -61,7 +61,7 @@
 </div>
 
 <div class="card">
-  <img class="card-img" src="1790187735641.jpg" alt="Booth 8 avocado seedling">
+  <img class="card-img" src="179072249576.jpg" alt="Booth 8 avocado seedling">
   <div class="card-body">
     <h2>Booth 8 & Local Ghana Avocado</h2>
     <p class="price">GHS 45–55</p>
@@ -72,7 +72,7 @@
 <div class="section-title">🍊 ORANGE SEEDLINGS</div>
 
 <div class="card">
-  <img class="card-img" src="1790187846515.jpg" alt="Orange seedlings">
+  <img class="card-img" src="179018810893.jpg" alt="Orange seedlings">
   <div class="card-body">
     <span class="tag green">BEST FOR JUICE - VALENCIA</span>
     <h2>Valencia, Navel & Blood Orange</h2>
@@ -84,7 +84,7 @@
 <div class="section-title">🍈 SOURSOP & 🍐 GUAVA</div>
 
 <div class="card">
-  <img class="card-img" src="179018246108.jpg" alt="Soursop and guava seedlings">
+  <img class="card-img" src="1790187735641.jpg" alt="Soursop and guava seedlings">
   <div class="card-body">
     <h2>Soursop Sweet & Giant + Guava White / Pink / Giant Thai</h2>
     <p class="price">Soursop GHS 35–45 | Guava GHS 25–40</p>
@@ -95,7 +95,7 @@
 <div class="section-title">🍋 OTHER FRUITS & VEGETABLES</div>
 
 <div class="card">
-  <img class="card-img" src="1790172095616.jpg" alt="Other fruit and vegetable seedlings">
+  <img class="card-img" src="1790188246108.jpg" alt="Other fruit and vegetable seedlings">
   <div class="card-body">
     <h2>Mango, Coconut, Lemon, Pawpaw, Tomato, Rose & Hibiscus</h2>
     <p class="price">From GHS 20</p>

@@ -46,7 +46,7 @@
   <div class="card-body">
     <span class="tag purple">PREMIUM BEST SELLER - HASS</span>
     <h2>Hass Avocado - Export Grade</h2>
-    <p class="price">GHS 80</p>
+    <p class="price">GHS 50</p>
     <a class="btn" href="https://wa.me/233256258697?text=I%20want%20Hass%20Avocado%20GHS80">Order Hass</a>
   </div>
 </div>

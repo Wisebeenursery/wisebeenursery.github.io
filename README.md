@@ -55,7 +55,7 @@
   <img class="card-img" src="1790187846515.jpg" alt="Fuerte avocado seedling">
   <div class="card-body">
     <h2>Fuerte Avocado - Ghana Favorite</h2>
-    <p class="price">GHS 60</p>
+    <p class="price">GHS 40</p>
     <a class="btn" href="https://wa.me/233256258697?text=I%20want%20Fuerte%20Avocado">Order Fuerte</a>
   </div>
 </div>
@@ -64,7 +64,7 @@
   <img class="card-img" src="179072249576.jpg" alt="Booth 8 avocado seedling">
   <div class="card-body">
     <h2>Booth 8 & Local Ghana Avocado</h2>
-    <p class="price">GHS 45–55</p>
+    <p class="price">GHS 30–55</p>
     <a class="btn" href="https://wa.me/233256258697?text=I%20want%20Booth%208%20Avocado">Order Booth 8</a>
   </div>
 </div>
@@ -97,8 +97,8 @@
 <div class="card">
   <img class="card-img" src="1790188246108.jpg" alt="Other fruit and vegetable seedlings">
   <div class="card-body">
-    <h2>Mango, Coconut, Lemon, Pawpaw, Tomato, Rose & Hibiscus</h2>
-    <p class="price">From GHS 20</p>
+    <h2>All type of Fruit plants (Mango, Coconut, Lemon, Pawpaw etc)All type of Flower Plants (Rose & Hibiscus)</h2>
+    <p class="price">From GHS 20-GHS60</p>
     <a class="btn" href="https://wa.me/233256258697?text=I%20want%20to%20see%20all%20seedlings">Order All Seedlings</a>
   </div>
 </div>

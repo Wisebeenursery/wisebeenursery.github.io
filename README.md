@@ -126,6 +126,49 @@
   </div>
 </div>
 
+<html>
+<head><style>
+@font-face {
+  font-family: "Optimistic";
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url("/fonts/OptimisticAI_VF_Optimized.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Optimistic Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/OptimisticMono_W_TextRegular.woff2") format("woff2");
+}
+:where(html) {
+  font-family: "Optimistic", system-ui, sans-serif;
+}
+:where(code, pre, kbd, samp) {
+  font-family: "Optimistic Mono", ui-monospace, monospace;
+}
+</style>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Wise Bee Nursery - Accra | Fruits, Vegetables, Flowers</title>
+  <style>
+    body{margin:0;font-family:Arial;background:#e8f5e9;color:#333}
+    .header{background:#0a5c26;color:#fff;padding:30px 15px;text-align:center}
+    .card{background:#fff;margin:15px;border-radius:16px;padding:0;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,0.12);border-left:6px solid #0a5c26}
+    .card-img{width:100%;height:220px;object-fit:cover;display:block}
+    .card-body{padding:18px}
+    .price{color:#0a5c26;font-weight:bold;font-size:20px}
+    .btn{background:#0a5c26;color:#fff;padding:12px 22px;border-radius:25px;text-decoration:none;display:inline-block;font-weight:bold;margin-top:10px}
+    .tag{display:inline-block;padding:5px 12px;border-radius:20px;color:#fff;font-size:12px;font-weight:bold;margin-bottom:8px}
+    .green{background:#0a5c26}.purple{background:#6a1b9a}.orange{background:#e65100}.pink{background:#c2185b}
+    .section-title{margin:25px 15px 8px;font-size:22px;font-weight:bold;color:#0a5c26}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:0 15px}
+    .grid img{width:100%;height:120px;object-fit:cover;border-radius:12px}
+    .small{font-size:14px;color:#555;line-height:1.5}
+  </style>
+</head>
+<body>
+  
 <div class="section-title">🌸🌺 FLOWER PLANTS - NEW SECTION</div>
 <p style="margin:0 15px 10px" class="small">Beautiful indoor & outdoor flowers. From GHS 60 - GHS 200 depending on size / variety. All available in Accra - delivery nationwide.</p>
 

@@ -128,12 +128,7 @@
 
 <div class="section-title">🌸🌺 FLOWER PLANTS - NEW SECTION</div>
 <p style="margin:0 15px 10px" class="small">Beautiful indoor & outdoor flowers. From GHS 60 - GHS 200 depending on size / variety. All available in Accra - delivery nationwide.</p>
-<div class="card">
-  <img class="card-img"
-    src="Monstera Albo.jpg" although=Monstera Albo plant">
-  <div class="card-body">
-    <span class="-tag green">BEST SELLER - INDOOR / OUTDOOR</span>
-    
+
 <div class="card">
   <img class="card-img" src="Laurentii.jpg" alt="Laurentii Snake Plant">
   <div class="card-body">
@@ -157,12 +152,12 @@
 </div>
 
 <div class="card">
-  <img class="card-img" src="Monstera-albo.jpg" alt="Monstera Albo">
+  <img class="card-img" src="Monstera-albo.jpg" alt="Monstera Albo.jpg">
   <div class="card-body">
     <span class="tag pink">RARE - MONSTERA ALBO</span>
     <h2>Monstera Albo - White Variegated</h2>
     <p class="small">Rare Monstera with white + green leaves. Big beautiful leaves. For collectors & indoor decoration. Limited stock - ask first.</p>
-    <p class="price">GHS 150 - GHS 200</p>
+    <p class="price">GHS 600 - GHS 1500</p>
     <a class="btn" href="https://wa.me/233256258697?text=I%20want%20Monstera%20Albo">Order Monstera Albo</a>
   </div>
 </div>

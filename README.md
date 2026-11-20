@@ -126,6 +126,7 @@
   </div>
 </div>
 
+!DOCTYPE html>
 <html>
 <head><style>
 @font-face {
@@ -168,6 +169,15 @@
   </style>
 </head>
 <body>
+
+<div class="header">
+  <img src="1790113192525.jpg" alt="Wise Bee Nursery logo" style="width:110px;height:110px;border-radius:50%;border:4px solid #fff;background:#fff;object-fit:cover">
+  <h1 style="margin:10px 0 5px">🌱 WISE BEE NURSERY 🐝</h1>
+  <p>Accra, Ghana | +233 25 625 8697</p>
+  <p>Fruits • Vegetables • Flowers • All Grafted, Fruits in 2–3 Years</p>
+  <p>After God, Money is Next</p>
+  <a class="btn" style="background:#fff;color:#0a5c26" href="https://wa.me/233256258697?text=Hello%20Wise%20Bee%20Nursery,%20I%20want%20to%20buy%20seedlings">💬 Order on WhatsApp</a>
+</div>
   
 <div class="section-title">🌸🌺 FLOWER PLANTS - NEW SECTION</div>
 <p style="margin:0 15px 10px" class="small">Beautiful indoor & outdoor flowers. From GHS 60 - GHS 200 depending on size / variety. All available in Accra - delivery nationwide.</p>

@@ -83,7 +83,7 @@
 </div>
 
 <div class="card">
-  <img class="card-img" src="179072249576.jpg" alt="Booth 8 avocado seedling">
+  <img class="card-img" src="Local Avocado.jpg" alt="Booth 8 avocado seedling">
   <div class="card-body">
     <h2>Booth 8 & Local Ghana Avocado</h2>
     <p class="price">GHS 30–55</p>

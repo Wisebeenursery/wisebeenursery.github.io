@@ -46,7 +46,7 @@
   <img src="1790113192525.jpg" alt="Wise Bee Nursery logo" style="width:110px;height:110px;border-radius:50%;border:4px solid #fff;background:#fff;object-fit:cover">
   <h1 style="margin:10px 0 5px">🌱 WISE BEE NURSERY 🐝</h1>
   <p>Accra, Ghana | +233 25 625 8697</p>
-  <p>Fruits • Vegetables • Flowers • All Grafted, Fruits in 1–2 Years</p>
+  <p>Fruits • Vegetables • Flowers • All Grafted, Fruits in 2–3 Years</p>
   <p>After God, Money is Next</p>
   <a class="btn" style="background:#fff;color:#0a5c26" href="https://wa.me/233256258697?text=Hello%20Wise%20Bee%20Nursery,%20I%20want%20to%20buy%20seedlings">💬 Order on WhatsApp</a>
 </div>
@@ -130,7 +130,7 @@
 <p style="margin:0 15px 10px" class="small">Beautiful indoor & outdoor flowers. From GHS 60 - GHS 200 depending on size / variety. All available in Accra - delivery nationwide.</p>
 
 <div class="card">
-  <img class="card-img" src="laurentii.jpg" alt="Laurentii Snake Plant">
+  <img class="card-img" src="Laurentii.jpg" alt="Laurentii Snake Plant">
   <div class="card-body">
     <span class="tag green">BEST SELLER - INDOOR / OUTDOOR</span>
     <h2>Laurentii - Snake Plant</h2>
@@ -141,7 +141,7 @@
 </div>
 
 <div class="card">
-  <img class="card-img" src="moonshine.jpg" alt="Moonshine Snake Plant">
+  <img class="card-img" src="Moonshine.jpg" alt="Moonshine Snake Plant">
   <div class="card-body">
     <span class="tag purple">PREMIUM - MOONSHINE</span>
     <h2>Moonshine - Silver Snake Plant</h2>
@@ -152,7 +152,7 @@
 </div>
 
 <div class="card">
-  <img class="card-img" src="monstera-albo.jpg" alt="Monstera Albo">
+  <img class="card-img" src="Monstera-albo.jpg" alt="Monstera Albo">
   <div class="card-body">
     <span class="tag pink">RARE - MONSTERA ALBO</span>
     <h2>Monstera Albo - White Variegated</h2>
@@ -163,7 +163,7 @@
 </div>
 
 <div class="card">
-  <img class="card-img" src="rose flower.jpg" alt="Rose plants">
+  <img class="card-img" src="Rose Flower.jpg" alt="Rose plants">
   <div class="card-body">
     <h2>Rose - Red, Pink, White & Yellow</h2>
     <p class="small">Flowering roses for garden & pots. Sweet smell, blooms again and again.</p>
@@ -173,7 +173,7 @@
 </div>
 
 <div class="card">
-  <img class="card-img" src="hibiscus.jpg" alt="Hibiscus plants">
+  <img class="card-img" src="Hibiscus.jpg" alt="Hibiscus plants">
   <div class="card-body">
     <h2>Hibiscus - Hibiscus Flower Plants</h2>
     <p class="small">Big bright flowers - red, pink, yellow & orange. Loves sun, flowers all year in Accra.</p>
@@ -181,6 +181,10 @@
     <a class="btn" href="https://wa.me/233256258697?text=I%20want%20Hibiscus%20plants">Order Hibiscus</a>
   </div>
 </div>
+
+<div class="card">
+<img class="card-img" sec="Orchid.jpg" although="Orchid flower">
+<h2>Orchid flower - Orchid flower</h2>
 
 <div class="card">
   <img class="card-img" src="Bird of paradise.jpg" alt="All flower plants">

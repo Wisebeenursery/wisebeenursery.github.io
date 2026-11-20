@@ -97,8 +97,10 @@
 <div class="card">
   <img class="card-img" src="1790188246108.jpg" alt="Other fruit and vegetable seedlings">
   <div class="card-body">
-    <h2>All type of Fruit plants (Mango, Coconut, Lemon, Pawpaw etc)All type of Flower Plants (Rose & Hibiscus)</h2>
-    <p class="price">From GHS 20-GHS90</p>
+    <h2>All type of Fruit plants (Mango, Coconut, Lemon, Pawpaw etc)
+      All type of Flower Plants (Rose,Hibiscuses, Laurentii, moonshine,Monsters Albo etc)</h2>
+    <p class="price">Fruit plants,From GHS 20-GHS90
+    And Flower Plants, From GHS60-GHS200...</p>
     <a class="btn" href="https://wa.me/233256258697?text=I%20want%20to%20see%20all%20seedlings">Order All Seedlings</a>
   </div>
 </div>

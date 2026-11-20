@@ -128,7 +128,12 @@
 
 <div class="section-title">🌸🌺 FLOWER PLANTS - NEW SECTION</div>
 <p style="margin:0 15px 10px" class="small">Beautiful indoor & outdoor flowers. From GHS 60 - GHS 200 depending on size / variety. All available in Accra - delivery nationwide.</p>
-
+<div class="card">
+  <img class="card-img"
+    src="Monstera Albo.jpg" although=Monstera Albo plant">
+  <div class="card-body">
+    <span class="-tag green">BEST SELLER - INDOOR / OUTDOOR</span>
+    
 <div class="card">
   <img class="card-img" src="Laurentii.jpg" alt="Laurentii Snake Plant">
   <div class="card-body">

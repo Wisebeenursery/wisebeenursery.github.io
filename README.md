@@ -94,7 +94,7 @@
 <div class="section-title">🍊 ORANGE SEEDLINGS</div>
 
 <div class="card">
-  <img class="card-img" src="179018810893.jpg" alt="Orange seedlings">
+  <img class="card-img" src="Graft orange.jpg" alt="Orange seedlings">
   <div class="card-body">
     <span class="tag green">BEST FOR JUICE - VALENCIA</span>
     <h2>Valencia, Navel & Blood Orange</h2>

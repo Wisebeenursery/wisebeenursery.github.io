@@ -152,7 +152,7 @@
 </div>
 
 <div class="card">
-  <img class="card-img" src="Monstera-albo.jpg" alt="Monstera Albo.jpg">
+  <img class="card-img" src="Monstera Albo.jpg" alt="Monstera Albo.jpg">
   <div class="card-body">
     <span class="tag pink">RARE - MONSTERA ALBO</span>
     <h2>Monstera Albo - White Variegated</h2>

@@ -43,7 +43,7 @@
 <body>
 
 <div class="header">
-  <img src=".jpg" alt="Wisebe Logo" style="width:110px;height:110px;border-radius:50%;border:4px solid #fff;background:#fff;object-fit:cover">
+  <img src="1790113192525.jpg" alt="Wisebe Logo" style="width:110px;height:110px;border-radius:50%;border:4px solid #fff;background:#fff;object-fit:cover">
   <h1 style="margin:10px 0 5px">🌱WISEBEE NURSERY 🐝</h1>
   <p>Accra, Ghana | +233 25 625 8697</p>
   <p>Fruits • Vegetables • Flowers • All Grafted, Fruits in 2–3 Years</p>
